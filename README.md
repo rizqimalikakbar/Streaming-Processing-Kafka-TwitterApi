@@ -5,3 +5,5 @@ Buatlah streaming processing menggunakan Kafka basic components yang consume/sub
 1. Python 3
 2. Install Confluent Kafka Package
    `pip install confluent-kafka`
+3. Install Tweepy
+   `pip install tweepy`

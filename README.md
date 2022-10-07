@@ -16,3 +16,4 @@ Buatlah streaming processing menggunakan Kafka basic components yang consume/sub
    `docker-compose build`
    `docker-compose up`
 5. Running Kafka Producer with command `python3 kafka_producer.py`
+6. Running Kafka Consumer with command `python3 kafka_consumer.py`

@@ -12,6 +12,7 @@ Buatlah streaming processing menggunakan Kafka basic components yang consume/sub
 1. Get the Bearer Token on Website Twitter Developer
 2. Insert the Bearer Token to kafka_producer.py
 3. Insert your topic to kafka_producer.py in `search term`
-4. Activate Docker and start running `docker-compose.yml`
+4. Activate Docker and start running `docker-compose.yml` with command
    `docker-compose build`
-   `docker-compose up` 
+   `docker-compose up`
+5. Running Kafka Producer with command `python3 kafka_producer.py`
